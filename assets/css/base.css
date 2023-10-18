@@ -4,20 +4,20 @@
     --text-color: #333;
 }
 
-*{
+/* *{
     box-sizing: inherit;
-}
+} */
 
 html
 {
     /* HACK FONT SIZE CHO NOT DE */
     font-size: 62.5%;
-    line-height: 16rem;
+    /* line-height: 16rem; */
     font-family: 'Roboto', sans-serif;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
-.grid{
+/* .grid{
     width: 1200px;
     max-width: 100%;
     margin: 0 auto;
@@ -30,4 +30,4 @@ html
 .grid__row{
     display: flex;
     flex-wrap: wrap;
-}
+} */
